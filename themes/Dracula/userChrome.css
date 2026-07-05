@@ -36,6 +36,16 @@
     background: #282A36 !important;
   }
 
+  /* Drag handle between the sidebar and the browser window; Zen paints
+     it with --zen-colors-border, which reads too loud as a full line */
+  #zen-sidebar-splitter {
+    background: #44475A !important;
+  }
+
+  #zen-sidebar-splitter:hover {
+    background: #BD93F9 !important;
+  }
+
   #permissions-granted-icon {
     color: #282A36 !important;
   }
