@@ -9,7 +9,7 @@
 ## Usage
 
 1. [Create a `chrome` folder](https://www.userchrome.org/how-create-userchrome-css.html) in your Zen Browser's profile directory and configure it to enable userstyles.
-2. Copy the [`userChrome.css`](themes/Mocha/Blue/userChrome.css) and [`userContent.css`](themes/Mocha/Blue/userContent.css) files from [`themes/Mocha/Blue/`](themes/Mocha/Blue/) to your `chrome` folder.
+2. Copy the [`userChrome.css`](themes/Dracula/userChrome.css) and [`userContent.css`](themes/Dracula/userContent.css) files from [`themes/Dracula/`](themes/Dracula/) to your `chrome` folder.
 3. Enable `toolkit.legacyUserProfileCustomizations.stylesheets` in [about:config](about:config).
 4. Set your browser to dark mode and restart it.
 
@@ -21,7 +21,7 @@
 
 ## 💝 Thanks to
 
-- [Catppuccin for Zen Browser](https://github.com/catppuccin/zen-browser) — this theme is based on their MIT-licensed work; the remaining themes in [`themes/`](themes/) are their original Catppuccin flavors.
+- [Catppuccin for Zen Browser](https://github.com/catppuccin/zen-browser) — this theme is based on their MIT-licensed work.
 - [Dracula Theme](https://draculatheme.com/) for the color palette.
 - [IAmJafeth](https://github.com/IAmJafeth)
 
